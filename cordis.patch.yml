@@ -1,0 +1,5 @@
+- insert:
+    - id: spend-ledger
+      name: '@local/dsh-spend-ledger'
+      config:
+        refreshTtlMs: 20000

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Spend Ledger",
+    "description": "Desk-pet usage ledger: totals token usage from every session log, prices it with standard or custom rates, rolls over at 05:00 daily, and opens into daily/weekly curves and detail."
+  }
+}
